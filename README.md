@@ -20,7 +20,7 @@ Clone the repo and run it locally on your machine:
 
 
 ```
-git clone https://github.com/your-username/asteria.git
+git clone https://github.com/Aux-b/Asteria.git
 cd asteria
 javac AsteriaGame.java
 java AsteriaGame
